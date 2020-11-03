@@ -7,9 +7,9 @@
 بايثون 2.7 
 المكتبات التي لابد من تحميلها 
 
-#bs4 
+# bs4 
 sudo apt install python-bs4 
-#requests
+# requests
 sudo python -m pip install requests 
 
 

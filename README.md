@@ -11,5 +11,5 @@ sudo apt install python-bs4
 sudo python -m pip install requests 
 
 
-This is a simple python scraper that summerises sabg.org website. 
+
 
